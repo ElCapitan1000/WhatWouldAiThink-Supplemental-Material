@@ -1,2 +1,5 @@
 # WhatWouldAiThink-Supplemental-Material
-Supplemental material for my website WhatWouldAiThink.com
+
+This repo contains supplemental material for my website WhatWouldAiThink.com
+
+Copyright © 2022 whatwouldaithink.com - All Rights Reserved
